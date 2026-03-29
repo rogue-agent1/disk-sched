@@ -1,10 +1,11 @@
-# Disk Sched
+# disk_sched
 
-A zero-dependency Python CLI tool.
+disk_sched: Disk scheduling algorithms (FCFS, SSTF, SCAN, C-SCAN).
+
+Single-file, zero-dependency Python CLI.
 
 ## Usage
 
 ```bash
-python disk_sched.py test
-python disk_sched.py demo
+python3 disk_sched.py test
 ```
